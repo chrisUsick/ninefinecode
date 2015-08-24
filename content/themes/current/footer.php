@@ -17,9 +17,9 @@
 			<?php wp_nav_menu( array( 'theme_location' => 'footer', 'depth' => 1 ) ); ?>
 		</div>
 		<div class="site-info">
-			<div class="container">
+			<!-- <div class="container">
 				<?php echo apply_filters( 'so_current_credits_siteorigin', sprintf( __( 'Theme by %1$s.', 'so-current' ), '<a href="http://siteorigin.com/" rel="designer">SiteOrigin</a>' ) ); ?>
-			</div>
+			</div> -->
 		</div><!-- .site-info -->
 	</footer><!-- #colophon .site-footer -->
 </div><!-- #page .hfeed .site -->
